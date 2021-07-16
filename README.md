@@ -1,4 +1,4 @@
-<h3>Harshith Kumar<h3>
+<h3>Harshith Kumar</h3>
 📧 harshith.kotian24@gmail.com<br>
 This repository contains my internship project for 'The Sparks Foundation' for July 2021 batch.<br>
 <h2>TSF GRIP task Payment Integration Gateway.</h2><br>
