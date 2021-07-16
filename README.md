@@ -1,6 +1,6 @@
 # TSF_Grip_Project
 ## Harshith Kumar
-📧 harshith.kotian24@gmail.com
+📧  harshith.kotian24@gmail.com
 <br>This repository contains my internship project for 'The Sparks Foundation' for July 2021 batch.
 # TSF GRIP task Payment Integration Gateway.
 ➡ Create a simple website where payment gateway is integrated.<br>
